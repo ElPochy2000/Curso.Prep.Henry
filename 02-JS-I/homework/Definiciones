@@ -1,0 +1,10 @@
+Variables: forma de almacenar valor
+
+String: bloques de textos definidos entre comillas
+
+Funciones: objetos invocables. el argumento es el valor de la funcion puesta entre comillas. return
+es una declaracion que escapa los datos de una funcion. tambien detiene la funcion inmediatamente y devuelve lo espiecificado
+
+Declaraciones if: propone una condicion que si se cumple ejecuta el codigo dentro
+
+valores booleanos: definen cuando algo es verdadero o falso

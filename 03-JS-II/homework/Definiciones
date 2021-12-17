@@ -1,0 +1,7 @@
+For: bucle que se cumple siempre y cuando la condicion que le coloquemos sea 'true' y terminara cuando algo arroje un resultado 'false'
+
+&&: quiere decir 'and' arroja true si ambas expresiones son true y false si alguna no lo expresiones
+
+||: quiere decir 'or' arroja true si alguna de las expresiones son true. si ninguna es true responde false
+
+!: quiere decir 'not' devuelve el valor booleano contrario al que se le pase

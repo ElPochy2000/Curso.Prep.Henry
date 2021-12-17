@@ -1,0 +1,4 @@
+Clases: plantilla para la creacion de objetos con datos segun un modelo predefinido
+
+Prototype: metodos que establecemos fuera de las funciones que estamos escribiendo para luego convocarlas usando un mismo prototype siempre que las necesitemos en vez de reescribirla
+en cada funcion

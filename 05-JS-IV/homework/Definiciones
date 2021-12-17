@@ -1,0 +1,13 @@
+Objetos: parecido a las matrices pero capaces de contener mas informacion sobre una misma cosa y sin notacion numerica. se instancian usando llaves.
+
+propiedad: informacion que se guarda como 'clave: valor'
+
+Metodos: las funciones guardadas en un Objetos
+
+Bucle 'for...in': como los objetos no tienen indices numericos el bucle estandar no funcionara. por lo que usamos el bucle 'for...in' que comienza con for y utilizaremos la palabra in antes del objeto
+ej: var cosa in obj. esta recorrera cada clave del objeto
+
+Notacion de puntos vs notacion de corchetes
+una vez tengamos clave y valor podemos acceder a los valores llamando al nombre del objeta con la clave de dos maneras:
+Puntos con el nombre del objeto.valor o corchetes como si llamaramos a una matriz pero en vez de numeros con el valor entre comillas.
+

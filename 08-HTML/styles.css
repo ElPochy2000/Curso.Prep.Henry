@@ -1,0 +1,13 @@
+
+#thirddiv{
+  background-color: lightblue;
+  width:500px ;
+  height: 600px ;
+  padding: 50px ;
+  border-style: dotted;
+  border-color:red;
+  border-width: 100px;
+}
+#spanid{
+  font-size:18px;
+  margin:50px }
